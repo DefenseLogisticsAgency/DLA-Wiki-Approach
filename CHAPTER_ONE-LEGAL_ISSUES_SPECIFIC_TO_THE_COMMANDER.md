@@ -1,14 +1,14 @@
 # CHAPTER ONE: LEGAL ISSUES SPECIFIC TO THE COMMANDER
 
-* Sources of Command Authority
-* Command Succession
-* Functions of the Staff Judge Advocate
-* Personal Liability of Commanders and Supervisors
-* Article 138 Complaints
-* Special Court-Martial Convening Authority Duties
-* Unlawful Command Influence
-* Serving as a Court Member 
-* Testifying as a Witness
+* [Sources of Command Authority](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#sources-of-command-authority)
+* [Command Succession](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#command-succession)
+* [Functions of the Staff Judge Advocate](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/not-linked.html)
+* [Personal Liability of Commanders and Supervisors](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/not-linked.html)
+* [Article 138 Complaints](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/not-linked.html)
+* [Special Court-Martial Convening Authority Duties](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/not-linked.html)
+* [Unlawful Command Influence](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/not-linked.html)
+* [Serving as a Court Member](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/not-linked.html)
+* [Testifying as a Witness](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/not-linked.html)
 
 -----------------
 
