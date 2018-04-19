@@ -1,5 +1,9 @@
 # CHAPTER ONE: LEGAL ISSUES SPECIFIC TO THE COMMANDER
 
+------------------------------
+Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
+------------------------------
+
 * [Sources of Command Authority](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#sources-of-command-authority)
 * [Command Succession](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#command-succession)
 * Functions of the Staff Judge Advocate
@@ -69,6 +73,8 @@ order and discipline, and to protect federal resources
 administrative changes, 29 March 2016 4 The Military Commander and the Law
 
 ------------------------------
+Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
+------------------------------
 
 
 ## COMMAND SUCCESSION
@@ -128,3 +134,7 @@ An officer is vested with command in one of two ways, either by assuming command
 * AFI 11-402, Aviation and Parachutist Service, Aeronautical Ratings and Aviation Badges (13 December 2010), certified current, 5 February 2013 
 * AFI 33-328, Administrative Orders (16 January 2007) 
 * AFI 51-604, Appointment to and Assumption of Command (11 February 2016), including administrative changes, 29 March 2016
+
+------------------------------
+Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
+------------------------------
