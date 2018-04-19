@@ -33,7 +33,7 @@ Article II, § 2 of the United States Constitution provides the original source 
     - A commander exercises control through subordinate commanders, principal assistants, and other officers to whom the commander has delegated authorities
     -  Staff, including vice and deputy commanders, have no command functions. They assist the commander through advising, planning, researching, and investigating. Subordinate officers must issue all directives in the commander’s name.
     - Commanders may delegate administrative duties or authorities to members of their staff and subordinate commanders as needed. However, delegating duties incident to the discharge of responsibilities does not relieve the commander of the responsibility to exercise command supervision.
-    - **Be mindful of the following constraints:**
+    - *Be mindful of the following constraints:*
       - Duties specifically imposed on commanders by federal law, such as the UCMJ, shall not be delegated to staff officers
       - Duties that have been designated non-delegable by a higher authority shall not be delegated
       - A commander should exercise sound judgment and discretion in not delegating duties of clear importance
