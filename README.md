@@ -5,8 +5,6 @@
 
 # *The Military Commander and the Law*
 
--------
-
 **Table of Contents**
 
 ## [CHAPTER ONE: LEGAL ISSUES SPECIFIC TO THE COMMANDER](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html)
