@@ -14,6 +14,8 @@
 
 -----------------
 
+> Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
+
 ## SOURCES OF COMMAND AUTHORITY
 
 Article II, § 2 of the United States Constitution provides the original source of command authority to the President as Commander-in-Chief. Military command includes two distinct components: (1) operational control (OPCON) and (2) administrative control (ADCON).
