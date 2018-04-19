@@ -2,12 +2,12 @@
 
 ---------
 
-# The Military Commander and the Law
+# *The Military Commander and the Law*
 -------
 
 **Table of Contents**
 
-## [CHAPTER ONE: LEGAL ISSUES SPECIFIC TO THE COMMANDER](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#command-succession)
+## [CHAPTER ONE: LEGAL ISSUES SPECIFIC TO THE COMMANDER](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html)
 
 * [Sources of Command Authority](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#sources-of-command-authority)
 * [Command Succession](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#command-succession)
