@@ -29,9 +29,9 @@ The Concept of Command by Uniformed Military Personnel
 
 -	 Concept of command carries dual functions
 
-  --	 Legal authority over people, including power to discipline
+    - Legal authority over people, including power to discipline
 
-  --	 Legal responsibility for the mission and resources
+    - Legal responsibility for the mission and resources
 
 -	 Command devolves upon an individual, not a staff
 
