@@ -2,8 +2,7 @@
 
 ---------
 
-# [The Military Commander and the Law](http://www.holloman.af.mil/Portals/101/documents/JA%20Documents/References/MCL%202016%20web.pdf?ver=2016-11-28-145828-903)"
-
+# The Military Commander and the Law
 -------
 
 **Table of Contents**
