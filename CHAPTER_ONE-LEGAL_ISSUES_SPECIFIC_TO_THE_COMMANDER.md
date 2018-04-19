@@ -18,11 +18,9 @@ Article II, § 2 of the United States Constitution provides the original source 
 
 ## Chain of Command
 
--	 The President and Secretary of Defense (SecDef ) exercise authority, direction, and control of the Air Force through two distinct chains of command
-
-  --	 The operational branch runs from the President, through SecDef, to the commanders of combatant commands for missions and forces assigned or attached to their commands
-
-  --	 For purposes other than operational direction of forces assigned to the combatant commands, the chain of command runs from the President to SecDef to the Secretary of the Air Force (SecAF), and thereafter, as prescribed by SecAF in AFPD 51-6, Command and Administrative Proceedings and its implementing instructions. SecAF has shared administrative command and control with the combatant commander over Air Force forces assigned or attached to combatant commands.
+* The President and Secretary of Defense (SecDef ) exercise authority, direction, and control of the Air Force through two distinct chains of command
+    - The operational branch runs from the President, through SecDef, to the commanders of combatant commands for missions and forces assigned or attached to their commands
+    - For purposes other than operational direction of forces assigned to the combatant commands, the chain of command runs from the President to SecDef to the Secretary of the Air Force (SecAF), and thereafter, as prescribed by SecAF in AFPD 51-6, Command and Administrative Proceedings and its implementing instructions. SecAF has shared administrative command and control with the combatant commander over Air Force forces assigned or attached to combatant commands.
 
 -	 The chain of command within the Air Force runs from SecAF to the major command commanders to their subordinate commanders. SecAF exercises this command authority over Airmen through the Chief of Staff of the Air Force (CSAF).
 The Concept of Command by Uniformed Military Personnel
