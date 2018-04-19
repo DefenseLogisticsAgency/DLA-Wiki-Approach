@@ -1,8 +1,6 @@
-# CHAPTER ONE: LEGAL ISSUES SPECIFIC TO THE COMMANDER
+> Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
 
-------------------------------
-Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
-------------------------------
+# CHAPTER ONE: LEGAL ISSUES SPECIFIC TO THE COMMANDER
 
 * [Sources of Command Authority](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#sources-of-command-authority)
 * [Command Succession](https://defenselogisticsagency.github.io/DLA-Wiki-Approach/CHAPTER_ONE-LEGAL_ISSUES_SPECIFIC_TO_THE_COMMANDER.html#command-succession)
@@ -73,9 +71,8 @@ order and discipline, and to protect federal resources
 administrative changes, 29 March 2016 4 The Military Commander and the Law
 
 ------------------------------
-Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
-------------------------------
 
+> Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
 
 ## COMMAND SUCCESSION
 
@@ -136,5 +133,6 @@ An officer is vested with command in one of two ways, either by assuming command
 * AFI 51-604, Appointment to and Assumption of Command (11 February 2016), including administrative changes, 29 March 2016
 
 ------------------------------
-Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
-------------------------------
+
+
+> Back to the [Home Page](https://defenselogisticsagency.github.io/DLA-Wiki-Approach)
