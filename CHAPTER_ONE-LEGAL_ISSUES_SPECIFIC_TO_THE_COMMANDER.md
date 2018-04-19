@@ -98,32 +98,33 @@ An officer is vested with command in one of two ways, either by assuming command
 ### Resumption of Command after Temporary Absence
 * No need to publish assumption of or appointment to command orders when the original commander resumes command after a temporary absence, so long as they are still equal or senior in grade to any other officer then present for duty, assigned to the organization, and eligible to command
 * If during the permanent commander’s temporary absence, another officer senior in grade to him/her, who is eligible to command, is assigned or attached to the organization, then the returning commander may not resume command unless appointed to command
-Special Rules and Limitations on Command
+
+### Special Rules and Limitations on Command
 * No commander may appoint his own successor
 * There is no title or position of “acting commander;” the term is not authorized
-Limitations to Command based upon Type of Personnel
+
+### Limitations to Command based upon Type of Personnel
 * Enlisted members cannot exercise command
 * Civilians cannot exercise command
     - Civilians may hold supervisory positions, and provide supervision to military and civilian personnel in a unit. However, civilians cannot assume“military command” or exercise command over military members within the unit. Except as limited by law, a civilian leader of a unit is authorized to perform all functions normally requiring action by the respective unit commander.
+    - Units designated to be led by civilian directors will not have commanders and members of the unit or subordinate units may not assume command of the unit. Thus, designations of individuals to lead the unit should be conducted in advance in the event of a director’s absence.
+    - Functions which require a commander (e.g., imposition of nonjudicial punishment; initiation of administrative discharges) will be established by competent command authority, either by attaching military members for these limited purposes to a unit led by a commander, or by accomplishing these functions at a command level above the unit.
+* Officers assigned to HQ USAF cannot assume command of personnel, unless competent authority specifically directs
+* Chaplains cannot exercise command, although they do have the authority to give lawful orders and exercise functions of operational supervision, control, and direction
+* Students cannot command an Air Force school or similar organization
+* Judge Advocates may only exercise command if expressly authorized by The Judge Advocate General, as the senior ranking member among a group of prisoners of war, or under emergency field conditions
 
+### Limitations of Command Based Upon Organization
 
---	 Units designated to be led by civilian directors will not have commanders and members of the unit or subordinate units may not assume command of the unit. Thus, designations of individuals to lead the unit should be conducted in advance in the event of a director’s absence.
---	 Functions which require a commander (e.g., imposition of nonjudicial punishment; initiation of administrative discharges) will be established by competent command authority, either by attaching military members for these limited purposes to a unit led by a commander, or by accomplishing these functions at a command level above the unit.
--	 Officers assigned to HQ USAF cannot assume command of personnel, unless competent authority specifically directs
--	 Chaplains cannot exercise command, although they do have the authority to give lawful orders and exercise functions of operational supervision, control, and direction
--	 Students cannot command an Air Force school or similar organization
--	 Judge Advocates may only exercise command if expressly authorized by The Judge Advocate General, as the senior ranking member among a group of prisoners of war, or under emergency field conditions
-Limitations of Command Based Upon Organization
--	 Flying Units: May only be commanded by Line of the Air Force officers with a current aeronautical rating, as defined by AFI 11-402, Aviation and Parachutist Service, Aeronautical Ratings and Aviation Badges. The rated officer must hold a currently effective aeronautical rating or crewmember certification, and must be qualified for aviation service in an airframe flown by the unit to be commanded.
---	 Exception 1: Officers from other military departments who have USAF-equivalent crewmember ratings or certifications can command consolidated flying training organizations in accordance with appropriate interservice agreements
---	 Exception 2: Certain types of organizations, such as air base wings or groups, which have multiple missions that include responsibility for controlling or directing flying activities, are considered non-flying units and may be commanded by non-rated officers
-CHAPTER ONE Legal Issues Specific to the Commander 7
+* **Flying Units**: May only be commanded by Line of the Air Force officers with a current aeronautical rating, as defined by AFI 11-402, Aviation and Parachutist Service, Aeronautical Ratings and Aviation Badges. The rated officer must hold a currently effective aeronautical rating or crewmember certification, and must be qualified for aviation service in an airframe flown by the unit to be commanded.
+    - Exception 1: Officers from other military departments who have USAF-equivalent crewmember ratings or certifications can command consolidated flying training organizations in accordance with appropriate interservice agreements
+    - Exception 2: Certain types of organizations, such as air base wings or groups, which have multiple missions that include responsibility for controlling or directing flying activities, are considered non-flying units and may be commanded by non-rated officers
+* Command of Active Duty Units by Reserve Officers: Only reserve component officers on extended active duty orders can command organizations of the regular Air Force. “Extended active duty” is defined as a period of 90 days or more during which the officer is on active duty (other than for training) orders. The COMAFFOR or delegate may authorize reserve component officers not on extended active duty to command regular Air Force units operating under the COMAFFOR’s authority, though COMAFFOR may delegate this authority no lower than the commanders of aerospace expeditionary wings for expeditionary units operating under the COMAFFOR’s authority.
+* Command of Reserve Units by Regular Officers: Regular officers and reserve officers on extended active duty cannot command organizations of the Air Force Reserve (AFR) unless approved by HQ USAF/RE
+* Medical/Healthcare Units: Only officers designated as a medical (including nurses), dental, veterinary, medical service, or biomedical sciences officer may command organizations and installations whose primary mission involves health care or the health profession
+* Command of Installation: Officers quartered on an installation, but assigned to another organization not charged with operating that installation, cannot assume command of the installation by virtue of seniority
 
--	 Command of Active Duty Units by Reserve Officers: Only reserve component officers on extended active duty orders can command organizations of the regular Air Force. “Extended active duty” is defined as a period of 90 days or more during which the officer is on active duty (other than for training) orders. The COMAFFOR or delegate may authorize reserve component officers not on extended active duty to command regular Air Force units operating under the COMAFFOR’s authority, though COMAFFOR may delegate this authority no lower than the commanders of aerospace expeditionary wings for expeditionary units operating under the COMAFFOR’s authority.
--	 Command of Reserve Units by Regular Officers: Regular officers and reserve officers on extended active duty cannot command organizations of the Air Force Reserve (AFR) unless approved by HQ USAF/RE
--	 Medical/Healthcare Units: Only officers designated as a medical (including nurses), dental, veterinary, medical service, or biomedical sciences officer may command organizations and installations whose primary mission involves health care or the health profession
--	 Command of Installation: Officers quartered on an installation, but assigned to another organization not charged with operating that installation, cannot assume command of the installation by virtue of seniority
-References AFI 11-402, Aviation and Parachutist Service, Aeronautical Ratings and Aviation Badges
-(13 December 2010), certified current, 5 February 2013 AFI 33-328, Administrative Orders (16 January 2007) AFI 51-604, Appointment to and Assumption of Command (11 February 2016), including
-administrative changes, 29 March 2016
-8 The Military Commander and the Law
+### References 
+* AFI 11-402, Aviation and Parachutist Service, Aeronautical Ratings and Aviation Badges (13 December 2010), certified current, 5 February 2013 
+* AFI 33-328, Administrative Orders (16 January 2007) 
+* AFI 51-604, Appointment to and Assumption of Command (11 February 2016), including administrative changes, 29 March 2016
