@@ -33,7 +33,6 @@ Article II, § 2 of the United States Constitution provides the original source 
     - A commander exercises control through subordinate commanders, principal assistants, and other officers to whom the commander has delegated authorities
     -  Staff, including vice and deputy commanders, have no command functions. They assist the commander through advising, planning, researching, and investigating. Subordinate officers must issue all directives in the commander’s name.
     - Commanders may delegate administrative duties or authorities to members of their staff and subordinate commanders as needed. However, delegating duties incident to the discharge of responsibilities does not relieve the commander of the responsibility to exercise command supervision.
-
     - **Be mindful of the following constraints:**
       - Duties specifically imposed on commanders by federal law, such as the UCMJ, shall not be delegated to staff officers
       - Duties that have been designated non-delegable by a higher authority shall not be delegated
@@ -52,22 +51,15 @@ Article II, § 2 of the United States Constitution provides the original source 
 
 ### Command Authority over Civilians 
 
--	 The commander has authority over his/her civilian employees
-
-  --	 The commander can give promotions and bonuses, as well as impose sanctions 
-
-  --	 AFI 36-series defines this relationship 
-  
--	 The commander has less authority over nonemployee civilians on base 
-
-  --	 As “mayor” of the base, the installation commander has authority to maintain
+* The commander has authority over his/her civilian employees
+    - Rhe commander can give promotions and bonuses, as well as impose sanctions 
+    - AFI 36-series defines this relationship 
+* The commander has less authority over nonemployee civilians on base 
+    - As “mayor” of the base, the installation commander has authority to maintain
 order and discipline, and to protect federal resources 
-  
-  --	 As a practical matter, this authority may be limited to detaining individuals for civilian law enforcement officials and barring them from the installation 
-  
-  --	 The installation commander may bar an individual from the base for misconduct but must follow certain procedural requirements 
-  
-  --	 The commander has no authority over civilians off base
+    - As a practical matter, this authority may be limited to detaining individuals for civilian law enforcement officials and barring them from the installation 
+    - The installation commander may bar an individual from the base for misconduct but must follow certain procedural requirements 
+    - The commander has no authority over civilians off base
 
 ### References 
 * U.S. Const. Art. II, § 2 
