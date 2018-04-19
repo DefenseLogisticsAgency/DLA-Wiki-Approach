@@ -1,4 +1,4 @@
-> The following is a [quick mockup of a potential DLA internal wiki](https://defenselogisticsagency.github.io/DLA-Wiki-Approach) approach based on the Air Force practice guide "[The Military Commander and the Law](http://www.holloman.af.mil/Portals/101/documents/JA%20Documents/References/MCL%202016%20web.pdf?ver=2016-11-28-145828-903)"
+> This is a [quick mockup of a potential DLA internal wiki](https://defenselogisticsagency.github.io/DLA-Wiki-Approach) approach based on the Air Force practice guide "[The Military Commander and the Law](http://www.holloman.af.mil/Portals/101/documents/JA%20Documents/References/MCL%202016%20web.pdf?ver=2016-11-28-145828-903)"
 
 ---------
 
